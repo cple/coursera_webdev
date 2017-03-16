@@ -1,30 +1,45 @@
+/* Most styling is not required, but to make the page look a little bit nicer */
+
+
+/* -- Header / Navigation ----------------------------------------------------------------------- */
+
 #header-nav {
-  border-radius: 0;
-  /* Use default border-bottom only */
-  border-left: 0;
-  border-right: 0;
-  border-top: 0;
+    border-radius: 0;
+    /* Use default border-bottom only */
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
 }
 
 #header-nav h1 {
-	font-size: 1.7em;
-	margin: 0;
+    font-size: 1.7em;
+    margin: 0;
 }
 
+/* Set increased height for navbar-brand, since "Food, LLC" otherwise may overlap into the content area */
+.navbar-header .navbar-brand {
+    height: 60px;
+}
+
+
+/* -- Content ----------------------------------------------------------------------------------- */
+
 #main-content h2 {
-	margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 #main-content section {
-	margin-bottom: 50px;
-	padding: 10px 15px;
-	background-color: #EFEFEF;
+    margin-bottom: 50px;
+    /* Requirement based on mock-ups: section has paddings */
+    padding: 10px 15px;
+    /* Requirement: section has a distingushable background color */
+    background-color: #EFEFEF;
+}
+
+#main-content section h3 {
+    margin-top: 0px;
 }
 
 #main-content section p:last-child {
-	margin-bottom: 0px;
-}
-
-.navbar-header .navbar-brand {
-  height: 60px;
+    margin-bottom: 0px;
 }
