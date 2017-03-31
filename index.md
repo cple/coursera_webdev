@@ -15,6 +15,6 @@ This GitHub page gives access to my solutions for the assignments of the [Course
    - The coding assigment can be found [here](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md).
    - The goal was to display a random category when clicking on "specials" on the main page. 
 
-Some solutions base on starter code provided by the course's [GitHub repository](https://github.com/jhu-ep-coursera/fullstack-course4) (commit: [3b13f87034bb9ad783aa0f12bcb70a01b211a259](https://github.com/jhu-ep-coursera/fullstack-course4/commit/3b13f87034bb9ad783aa0f12bcb70a01b211a259).
+Some solutions base on starter code provided by the course's [GitHub repository](https://github.com/jhu-ep-coursera/fullstack-course4) (commit: [3b13f87034bb9ad783aa0f12bcb70a01b211a259](https://github.com/jhu-ep-coursera/fullstack-course4/commit/3b13f87034bb9ad783aa0f12bcb70a01b211a259)).
 
 The assignments were done in March 2017.
